@@ -1,8 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Product": [
+    {
+    "Id":1,
+    "Name": "Linen skirt",
+    "ShortDescription": "Best quality linen skirt",
+    "LongDescription":"Best quality linen skirt",
+    "Catagory": "1",
+    "Price": 1890,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage":"https://i.etsystatic.com/13074965/r/il/ad6f73/1300707053/il_fullxfull.1300707053_hgsg.jpg",
+    "FullImage": "https://i.etsystatic.com/13074965/r/il/ad6f73/1300707053/il_fullxfull.1300707053_hgsg.jpg"
+  }
+   
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
